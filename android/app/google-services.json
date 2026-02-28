@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160798352289",
+    "project_id": "kampung-care-app",
+    "storage_bucket": "kampung-care-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160798352289:android:55d2caa74770957d9d21e0",
+        "android_client_info": {
+          "package_name": "com.kampungcare.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz4X2Oht05_2FjikX7Vr_9Ulk7bW0dNr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

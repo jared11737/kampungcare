@@ -1,0 +1,6 @@
+{
+  "indexes": [
+    {"collectionGroup":"alerts","queryScope":"COLLECTION","fields":[{"fieldPath":"elderlyUid","order":"ASCENDING"},{"fieldPath":"createdAt","order":"DESCENDING"}]}
+  ],
+  "fieldOverrides":[]
+}
